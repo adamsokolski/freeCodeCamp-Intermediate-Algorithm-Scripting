@@ -23,7 +23,7 @@ I want to store somewhere my solutions to **Intermediate Algorithm Scripting** i
 13. [sumAllPrimes.js](./sumAllPrimes.js) ✅
 14. [smallestCommonMiltiple.js](./smallestCommonMiltiple.js) ✅
 15. [dropIt.js](./dropIt.js) ✅
-16. [searchArray.js](./searchArray.js) ✅
+16. [streamroller.js](./streamroller.js) ✅
 17. [binaryAgents.js](./binaryAgents.js) ✅
 18. [everythingBeTrue.js](./everythingBeTrue.js) ✅
 19. [argumentsOptional.js](./argumentsOptional.js) ✅
